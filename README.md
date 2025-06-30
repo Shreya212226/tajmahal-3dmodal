@@ -17,6 +17,12 @@ A detailed 3D model of the **Taj Mahal**, created using **AutoCAD**, showcasing 
 
 `.stl` – (Optional) for 3D printing or viewing in external applications
 
-Preview images/screenshots (rendered views, wireframes)
+## Learning Outcomes
+**This project is ideal for:**
+- Architecture students and enthusiasts  
+- CAD learners looking to practice with complex structures  
+- Designers interested in cultural heritage modeling
+
+## Preview
 
 
