@@ -1,7 +1,7 @@
 
 # Taj Mahal – 3D AutoCAD Model
 
-A detailed 3D model of the Taj Mahal, created using AutoCAD, showcasing the architectural brilliance of one of the world’s most iconic monuments. This digital representation captures the essence of Mughal architecture with precise geometry, intricate domes, minarets, and elegant symmetry.
+A detailed 3D model of the **Taj Mahal**, created using **AutoCAD**, showcasing the architectural brilliance of one of the world’s most iconic monuments. This digital representation captures the essence of Mughal architecture with precise geometry, intricate domes, minarets, and elegant symmetry.
 
 ## Project Highlights
 - Software Used: AutoCAD (3D Modeling)
