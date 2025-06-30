@@ -13,7 +13,7 @@ A detailed 3D model of the **Taj Mahal**, created using **AutoCAD**, showcasing 
 - **Focus:** Architectural accuracy, symmetry, and heritage preservation through digital modeling
 
 ## Files Included
-`.dwg` – AutoCAD 3D model file
+`.dwfx` – AutoCAD 3D model file
 
 `.stl` – (Optional) for 3D printing or viewing in external applications
 
