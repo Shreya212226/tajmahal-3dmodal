@@ -24,5 +24,7 @@ A detailed 3D model of the **Taj Mahal**, created using **AutoCAD**, showcasing 
 - Designers interested in cultural heritage modeling
 
 ## Preview
+![image](https://github.com/user-attachments/assets/3ce7f48d-472b-4da2-bbf3-3b85aa81a37d)
+
 
 
