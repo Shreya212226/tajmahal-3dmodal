@@ -5,17 +5,12 @@ A detailed 3D model of the Taj Mahal, created using AutoCAD, showcasing the arch
 
 ## Project Highlights
 - Software Used: AutoCAD (3D Modeling)
-
-2. Components Modeled:
-2.1 Main mausoleum with central dome
-
-2.2 Four surrounding minarets
-
-2.3 Raised platform with stairways
-
-2.4 Decorative archways, jalis, and intricate facade details
-
-3. Focus: Architectural accuracy, symmetry, and heritage preservation through digital modeling
+- Components Modeled:
+  -- Main mausoleum with central dome
+  -- Four surrounding minarets
+  -- Raised platform with stairways
+  -- Decorative archways, jalis, and intricate facade details
+- Focus: Architectural accuracy, symmetry, and heritage preservation through digital modeling
 
 ## Files Included
 .dwg – AutoCAD 3D model file
